@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PotatoPlayer</string>
+    <string name="name_song">name_song</string>
+    <string name="name_group">name_group</string>
+</resources>
