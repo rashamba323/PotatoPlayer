@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/build/intermediates/res/merged/release/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "518"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "517"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "518"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "517"
+                    }
+                }
+            ]
+        }
+    ]
+}

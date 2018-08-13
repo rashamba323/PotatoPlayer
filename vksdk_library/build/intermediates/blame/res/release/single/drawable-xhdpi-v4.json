@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/build/intermediates/res/merged/release/drawable-xhdpi-v4/bg_toolbar_shadow_dark.png",
+        "source": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/res/drawable-xhdpi/bg_toolbar_shadow_dark.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_close_white_24dp.png",
+        "source": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/res/drawable-xhdpi/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_ab_app.png",
+        "source": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/res/drawable-xhdpi/ic_ab_app.png"
+    }
+]

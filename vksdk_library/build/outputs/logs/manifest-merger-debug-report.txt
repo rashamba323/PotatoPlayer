@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:2:11-31
+		INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:5:11-36
+		INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+application
+ADDED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:7:5-12:19
+activity#com.vk.sdk.VKServiceActivity
+ADDED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:8:9-11:52
+	android:label
+		ADDED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:10:13-44
+	android:theme
+		ADDED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:11:13-50
+	android:name
+		ADDED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml:9:13-56
+uses-sdk
+INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+		ADDED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+		ADDED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/AndroidManifest.xml

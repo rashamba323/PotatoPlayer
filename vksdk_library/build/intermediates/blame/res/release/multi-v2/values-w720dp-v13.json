@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/res/values-w720dp/dimen.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/build/intermediates/res/merged/release/values-w720dp-v13/values-w720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/res/values-w720dp/dimen.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                }
+            ]
+        }
+    ]
+}

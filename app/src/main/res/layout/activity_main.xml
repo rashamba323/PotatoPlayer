@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<LinearLayout
+<RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -8,13 +8,55 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity">
-
-
-    <ListView
-        android:id="@+id/list_item"
+    <View
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="1dp"
+        android:background="@drawable/shadow_main"
+        android:layout_alignParentTop="true"/>
 
-    </ListView>
+    <FrameLayout
+        android:id="@+id/main_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_above="@id/main_buttons_container"/>
 
-</LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/shadow_main"
+        android:layout_above="@id/main_buttons_container"/>
+    <RelativeLayout
+        android:id="@+id/main_buttons_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <Button
+            android:id="@+id/main_button_search"
+            android:layout_width="120dp"
+            android:layout_height="75dp"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/button"
+            android:text="Search"/>
+        <Button
+            android:id="@+id/main_button_online"
+            android:layout_width="120dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/button"
+            android:text="Online"/>
+        <Button
+            android:id="@+id/main_button_download"
+            android:layout_width="120dp"
+            android:layout_height="75dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/button"
+            android:text="Download"/>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

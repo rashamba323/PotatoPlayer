@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "3,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,455",
+                        "endLines": "9,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "449,827"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,453",
+                        "endLines": "8,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "448,825"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/build/intermediates/res/merged/release/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/root/AndroidStudioProjects/PotatoPlayer/vksdk_library/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "3,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,455",
+                        "endLines": "9,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "449,827"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,453",
+                        "endLines": "8,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "448,825"
+                    }
+                }
+            ]
+        }
+    ]
+}

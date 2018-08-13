@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/fm_action_delete"
+        android:orderInCategory="1"
+        android:title="action_delete"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/fm_action_coppy"
+        android:orderInCategory="2"
+        android:title="action_coppy"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/fm_action_move"
+        android:orderInCategory="3"
+        android:title="action_move"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/fm_action_rename"
+        android:orderInCategory="4"
+        android:title="action_rename"
+        app:showAsAction="never"/>
+
+</menu>

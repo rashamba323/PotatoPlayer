@@ -2,4 +2,12 @@
     <string name="app_name">PotatoPlayer</string>
     <string name="name_song">name_song</string>
     <string name="name_group">name_group</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="fm_directory_is_empty">Directory is empty</string>
+    <string name="sign_in_whith_vk">Sign in whith VK</string>
+
+    <integer name="com_vk_sdk_AppId">6660253</integer>
 </resources>

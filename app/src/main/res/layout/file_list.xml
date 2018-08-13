@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TextView
+<RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="fill_parent"
-    android:layout_height="40sp"
-    android:padding="5dip"
-    android:gravity="center_vertical"
-    />
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/fm_empty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:gravity="center"
+        android:text="@string/fm_directory_is_empty"/>
+    <TextView
+        android:id="@+id/fm_current_path"
+        android:background="@color/black_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="4pt"
+        android:text="/root/sdcard/"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/fm_current_path"
+        android:background="@drawable/fm_current_path_shadow_line"/>
+
+    <view class="android.support.v7.app.AlertController$RecycleListView"
+        android:id="@+id/fm_recucle_view"
+        android:layout_below="@id/fm_current_path"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+
+
+</RelativeLayout>

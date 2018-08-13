@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/fm_item_image"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_folder"/>
+
+    <TextView
+        android:id="@+id/fm_item_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/fm_item_image"
+        android:lines="1"
+        android:text="fm_item_title"/>
+
+    <TextView
+        android:id="@+id/fm_item_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_alignBottom="@id/fm_item_image"
+        android:layout_toRightOf="@id/fm_item_image"
+        android:text="fm_item_info"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/fm_item_info"
+        android:background="#B3B3B3"/>
+
+</RelativeLayout>
